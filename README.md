@@ -11,11 +11,28 @@ Python Programming (MPCS 51042)
 
 Spatial Data Analysis ( SOCI 30253)
 
+_Planned future courses:_
+
+Perspectives on Computational Models (MACS 30100)
+
+Perspectives on Computational Research (MACS 30200)
+
+Introduction to Causal Inference (STAT 31900)
+
+Multivariate Statistical Analysis (STAT 32950)
+
+Empirical Analysis/Econometrics 1 (Econ 31000)
+
+Empirical Analysis/Econometrics 2 (Econ 31100)
+
+Empirical Analysis/Econometrics 3 (Econ 31200)
+
+Discrete Mathematics (CMSC 37110)
 
 
 ## @Indiana University Bloomington
 
-###### Math:
+###### Math (B.S.):
 Linear Algebra (MATH-M 303)
 
 Multivariate Calculus (MATH-M 311)
@@ -34,7 +51,7 @@ Real Analysis (MATH-M 413)
 
 Complex Analysis (MATH-M 415)
 
-###### Econ:
+###### Econ (B.A. with honor):
 Intermediate Microeconomics (ECON-E 321)
 
 Intermediate Macroeconomics (ECON-S 322)
@@ -54,7 +71,7 @@ Micro-Econometrics (ECON-E 472)
 PhD-level Microeconomics Theory (ECON-E 621)
 
 
-###### Stat:
+###### Stat(concentration):
 Mathematical Statistics (STAT-S 420)
 
 Networks Analysis (STAT-S 481)
@@ -62,9 +79,9 @@ Networks Analysis (STAT-S 481)
 Nonparametric Statistics (STAT-S 425)
 
 
-###### CS:
+###### CS(minor):
 Applied Algorithms (CSCI-B 505)
 
 Data Mining (CSCI-B 565)
 
-Machine Learning (CSCI-B 555)
+Computer Vision (CSCI-B 657)
