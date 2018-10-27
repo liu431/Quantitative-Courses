@@ -1,6 +1,6 @@
 # Quantitative-Courses
 
-## @University of Chicago (Oct 2018 - Present)
+## @University of Chicago (Sep 2018 - Present)
 
 ###### Computational Social Science:
 Mathematical Methods In Economics (ECON 30400)
@@ -29,10 +29,13 @@ Empirical Analysis/Econometrics 3 (Econ 31200)
 
 Discrete Mathematics (CMSC 37110)
 
+###### Booth School of Business:
+Applied Regression Analysis (BUSN 41100)---Grader
+
 
 ## @Indiana University Bloomington
 
-###### Math (B.S.):
+###### Applied Math (B.S.):
 Linear Algebra (MATH-M 303)
 
 Multivariate Calculus (MATH-M 311)
@@ -50,6 +53,11 @@ Probability Theory (MATH-S 463)
 Real Analysis (MATH-M 413)
 
 Complex Analysis (MATH-M 415)
+
+Finite Mathematics (MATH-M 118)---Teaching Assistant
+
+Calculus (MATH-M 211)---Teaching Assistant
+
 
 ###### Econ (B.A. with honor):
 Intermediate Microeconomics (ECON-E 321)
