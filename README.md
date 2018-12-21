@@ -3,34 +3,51 @@
 ## @University of Chicago (Sep 2018 - Present)
 
 ###### Computational Social Science:
-Mathematical Methods In Economics (ECON 30400)
 
 Perspectives on Computational Analysis (MACS 30000)
 
+Perspectives on Computational Modeling for Economics (MACS 30100)---Winter 2019
+
+Perspectives on Computational Research (MACS 30200)---Spring 2019
+
+Computational Social Science Workshop (MACS 50000)---Fall 2018~Spring 2020
+
+
+###### Economics:
+Mathematical Methods In Economics (ECON 30400)
+
+Empirical Analysis/Econometrics 1 (Econ 31000)---Fall 2019
+
+Empirical Analysis/Econometrics 2 (Econ 31100)---Winter 2020
+
+Empirical Analysis/Econometrics 3 (Econ 31200)---Spring 2020
+
+
+###### Computer Science:
+
 Python Programming (MPCS 51042)
 
+Unsupervised Learning and Data Analysis (TTIC 31220)---Winter 2019
+
+Discrete Mathematics (CMSC 37110)---Fall 2019
+
+Convex Optimization (CMSC 34500)---Winter 2020
+
+###### Statistics:
 Spatial Data Analysis ( SOCI 30253)
 
-_Planned future courses:_
+Multivariate Statistical Analysis (STAT 32950)---Spring 2019
 
-Perspectives on Computational Models (MACS 30100)
-
-Perspectives on Computational Research (MACS 30200)
-
-Introduction to Causal Inference (STAT 31900)
-
-Multivariate Statistical Analysis (STAT 32950)
-
-Empirical Analysis/Econometrics 1 (Econ 31000)
-
-Empirical Analysis/Econometrics 2 (Econ 31100)
-
-Empirical Analysis/Econometrics 3 (Econ 31200)
-
-Discrete Mathematics (CMSC 37110)
+Optimization (STAT 28000)---Spring 2019
 
 ###### Booth School of Business:
 Applied Regression Analysis (BUSN 41100)---Grader
+
+Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
+
+Applied Econometrics (BUSN 41903)---Spring 2019
+
+Advanced Quantitative Marketing	(BUSN 37904)---Winter 2020
 
 
 ## @Indiana University Bloomington
