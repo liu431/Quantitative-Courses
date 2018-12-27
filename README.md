@@ -1,7 +1,8 @@
 # Quantitative-Courses
 
-## @University of Chicago (Sep 2018 - Present)
+## @University of Chicago (Sep 2018 - Jun 2020)
 
+#### Degree pursuing: M.A. in Computational Social Science (Concentrations: Economics and Marketing)   
 ###### Computational Social Science:
 
 Perspectives on Computational Analysis (MACS 30000)
