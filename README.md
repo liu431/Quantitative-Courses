@@ -50,6 +50,9 @@ Applied Econometrics (BUSN 41903)---Spring 2019
 
 Advanced Quantitative Marketing	(BUSN 37904)---Winter 2020
 
+###### Public Policy:
+Survey Research Methodology (PPHA 41600)---Winter 2019
+
 
 ## @Indiana University Bloomington
 
