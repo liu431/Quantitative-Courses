@@ -11,13 +11,13 @@ Perspectives on Computational Modeling for Economics (MACS 30100)---Winter 2019
 
 Perspectives on Computational Research (MACS 30200)---Spring 2019
 
-Computational Social Science Workshop (MACS 50000)---Fall 2018~Spring 2020
+Computational Social Science Workshop (MACS 50000)---Autumn 2018 ~ Spring 2020
 
 
 ###### Economics:
 Mathematical Methods In Economics (ECON 30400)
 
-Empirical Analysis/Econometrics 1 (Econ 31000)---Fall 2019
+Empirical Analysis/Econometrics 1 (Econ 31000)---Autumn 2019
 
 Empirical Analysis/Econometrics 2 (Econ 31100)---Winter 2020
 
@@ -28,9 +28,13 @@ Empirical Analysis/Econometrics 3 (Econ 31200)---Spring 2020
 
 Python Programming (MPCS 51042)
 
-Unsupervised Learning and Data Analysis (TTIC 31220)---Winter 2019
+Introduction to Machine Learning (TTIC 31020)---Autumn 2019
 
-Discrete Mathematics (CMSC 37110)---Fall 2019
+Unsupervised Learning and Data Analysis (TTIC 31220)---Winter 2020
+
+Natural Language Processing (TTIC 31190)---Spring 2020
+
+Discrete Mathematics (CMSC 37110)---Autumn 2019
 
 Convex Optimization (CMSC 34500)---Winter 2020
 
