@@ -45,6 +45,8 @@ Multivariate Statistical Analysis (STAT 32950)---Spring 2019
 
 Optimization (STAT 28000)---Spring 2019
 
+Sample Surveys (STAT 33100)---Fall 2019
+
 ###### Booth School of Business:
 Applied Regression Analysis (BUSN 41100)---Grader
 
