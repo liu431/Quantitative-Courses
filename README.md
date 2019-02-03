@@ -41,6 +41,8 @@ Convex Optimization (CMSC 34500)---Winter 2020
 ###### Statistics:
 Spatial Data Analysis ( SOCI 30253)
 
+Survey Research Methodology (PPHA 41600)---Winter 2019
+
 Multivariate Statistical Analysis (STAT 32950)---Spring 2019
 
 Optimization (STAT 28000)---Spring 2019
@@ -55,10 +57,6 @@ Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
 Applied Econometrics (BUSN 41903)---Spring 2019
 
 Advanced Quantitative Marketing	(BUSN 37904)---Winter 2020
-
-###### Public Policy:
-Survey Research Methodology (PPHA 41600)---Winter 2019
-
 
 ## @Indiana University Bloomington
 
