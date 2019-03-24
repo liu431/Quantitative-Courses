@@ -24,7 +24,7 @@ Advanced Industrial Organization I (ECON 40101)---Autumn 2019
 
 Python Programming (MPCS 51042)---Autumn 2018
 
-Big Data (CAPP 30123)---Sprng 2019
+Big Data (CAPP 30123)---Spring 2019
 
 Computational Linguistics (LING 38600)---Spring 2019
 
