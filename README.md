@@ -28,6 +28,10 @@ Big Data (CAPP 30123)---Spring 2019
 
 Computational Linguistics (LING 38600)---Spring 2019
 
+Natural Language Processing (MPCS 53113)---Summer 2019
+
+Algorithms (MPCS 55001)---Autumn 2019
+
 Introduction to Machine Learning (TTIC 31020)---Autumn 2019
 
 Computational Content Analysis (MACS 60000)---Winter 2020
