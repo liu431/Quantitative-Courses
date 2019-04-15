@@ -19,7 +19,7 @@ Mathematical Methods In Economics (ECON 30400)---Summer 2018
 
 Advanced Industrial Organization I (ECON 40101)---Autumn 2019
 
-Open Source Economics Lab Boot Camp ---June 2019
+Open Source Economics Lab Boot Camp ---July & August 2019
 
 ###### Computer Science:
 
