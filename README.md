@@ -2,7 +2,7 @@
 
 ## @University of Chicago (Sep 2018 - Jun 2020)
 
-#### Degree pursuing: M.A. in Computational Social Science (Concentrations: Quant Marketing)   
+#### Degree pursuing: M.A. in Computational Social Science (Concentrations: Quantitative Marketing)   
 ###### Computational Social Science:
 
 Perspectives on Computational Analysis (MACS 30000)---Autumn 2018
@@ -41,9 +41,7 @@ Introduction to Databases (CMSC 33550)---Winter 2020
 
 Convex Optimization (TTIC 31070)---Winter 2020
 
-Natural Language Processing (TTIC 31190)---Spring 2020
-
-Usable Security and Privacy (CMSC 33210)---Spring 2020
+Natural Language Processing and Cognitive (MSCA 32018)---Autumn 2019
 
 ###### Statistics:
 Spatial Data Analysis ( SOCI 30253)---Autumn 2018
