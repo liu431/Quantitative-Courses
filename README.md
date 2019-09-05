@@ -17,8 +17,6 @@ Computational Social Science Workshop (MACS 50000)---Autumn 2018 ~ Spring 2020
 ###### Economics:
 Mathematical Methods In Economics (ECON 30400)---Summer 2018
 
-Advanced Industrial Organization I (ECON 40101)---Autumn 2019
-
 Open Source Economics Lab Boot Camp ---July & August 2019
 
 ###### Computer Science:
@@ -29,17 +27,7 @@ Big Data (CAPP 30123)---Spring 2019
 
 Computational Linguistics (LING 38600)---Spring 2019
 
-Natural Language Processing (MPCS 53113)---Summer 2019
-
-Algorithms (MPCS 55001)---Autumn 2019
-
 Introduction to Machine Learning (TTIC 31020)---Autumn 2019
-
-Computational Content Analysis (MACS 60000)---Winter 2020
-
-Introduction to Databases (CMSC 33550)---Winter 2020
-
-Convex Optimization (TTIC 31070)---Winter 2020
 
 Natural Language Processing and Cognitive (MSCA 32018)---Autumn 2019
 
@@ -50,16 +38,14 @@ Survey Research Methodology (PPHA 41600)---Winter 2019
 
 Multivariate Statistical Analysis (STAT 32950)---Spring 2019
 
-Optimization (STAT 28000)---Spring 2020
-
 ###### Booth School of Business:
 Applied Regression Analysis (BUSN 41100)---Grader
 
 Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
 
-Applied Econometrics (BUSN 41903)---Spring 2020
-
 Advanced Quantitative Marketing	(BUSN 37904)---Winter 2020
+
+Applied Econometrics (BUSN 41903)---Spring 2020
 
 ## @Indiana University Bloomington
 
@@ -98,16 +84,12 @@ International Trade (ECON-E 331)
 
 Financial Econometrics (ECON-E 390)
 
-Big Data in Economics (ECON-E 392)
-
 Econometrics (ECON-E 471)
 
 Micro-Econometrics (ECON-E 472)
 
-PhD-level Microeconomics Theory (ECON-E 621)
 
-
-###### Stat(concentration):
+###### Stat:
 Mathematical Statistics (STAT-S 420)
 
 Networks Analysis (STAT-S 481)
@@ -115,7 +97,7 @@ Networks Analysis (STAT-S 481)
 Nonparametric Statistics (STAT-S 425)
 
 
-###### CS Electives:
+###### CS (audit):
 Applied Algorithms (CSCI-B 505)
 
 Data Mining (CSCI-B 565)
