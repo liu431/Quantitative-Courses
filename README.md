@@ -27,16 +27,12 @@ Big Data (CAPP 30123)---Spring 2019
 
 Computational Linguistics (LING 38600)---Spring 2019
 
-Introduction to Machine Learning (TTIC 31020)---Autumn 2019
-
-Natural Language Processing and Cognitive (MSCA 32018)---Autumn 2019
+Unsupervised Machine Learning (MACS 40800)---Autumn 2019
 
 ###### Statistics:
 Spatial Data Analysis ( SOCI 30253)---Autumn 2018
 
 Survey Research Methodology (PPHA 41600)---Winter 2019
-
-Multivariate Statistical Analysis (STAT 32950)---Spring 2019
 
 ###### Booth School of Business:
 Applied Regression Analysis (BUSN 41100)---Grader
@@ -46,6 +42,12 @@ Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
 Advanced Quantitative Marketing	(BUSN 37904)---Winter 2020
 
 Applied Econometrics (BUSN 41903)---Spring 2020
+
+###### English
+Academic and Professional English([The Little Red Schoolhouse](https://writing-program.uchicago.edu/courses/writing-courses/academic-and-professional-writing-engl-1300033000/)) (ENGL 33000)---Autumn 2019
+
+###### Sociology
+Network Analysis (SOCI 50096)---Autumn 2019
 
 ## @Indiana University Bloomington
 
@@ -92,7 +94,7 @@ Micro-Econometrics (ECON-E 472)
 ###### Stat:
 Mathematical Statistics (STAT-S 420)
 
-Networks Analysis (STAT-S 481)
+Statistical Models in Networks (STAT-S 481)
 
 Nonparametric Statistics (STAT-S 425)
 
