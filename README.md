@@ -45,6 +45,7 @@ Applied Econometrics (BUSN 41903)---Spring 2020
 
 ###### English
 Academic and Professional English ([The Little Red Schoolhouse](https://writing-program.uchicago.edu/courses/writing-courses/academic-and-professional-writing-engl-1300033000/)) (ENGL 33000)---Autumn 2019
+
 (this is not a quant course; but it teaches me how to write quantitative analysis to influence readers)
 
 ###### Sociology
