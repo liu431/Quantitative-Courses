@@ -29,6 +29,9 @@ Computational Linguistics (LING 38600)---Spring 2019
 
 Unsupervised Machine Learning (MACS 40800)---Autumn 2019
 
+Computational Content Analysis (MACS 60000)---Winter 2020
+
+
 ###### Statistics:
 Spatial Data Analysis ( SOCI 30253)---Autumn 2018
 
