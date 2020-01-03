@@ -9,6 +9,8 @@ Perspectives on Computational Analysis (MACS 30000)---Autumn 2018
 
 Perspectives on Computational Modeling for Economics (MACS 30150)---Winter 2019
 
+Perspectives on Computational Modeling (MACS 30100)---Winter 2020 (Teaching Assistant)
+
 Perspectives on Computational Research for Economics  (MACS 30250)---Spring 2019
 
 Computational Social Science Workshop (MACS 50000)---Autumn 2018 ~ Spring 2020
@@ -38,7 +40,7 @@ Spatial Data Analysis ( SOCI 30253)---Autumn 2018
 Survey Research Methodology (PPHA 41600)---Winter 2019
 
 ###### Booth School of Business:
-Applied Regression Analysis (BUSN 41100)---Grader
+Applied Regression Analysis (BUSN 41100)---Autumn 2018 (Grader)
 
 Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
 
