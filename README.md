@@ -44,8 +44,6 @@ Applied Regression Analysis (BUSN 41100)---Autumn 2018 (Grader)
 
 Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
 
-Advanced Quantitative Marketing	(BUSN 37904)---Winter 2020
-
 Applied Econometrics (BUSN 41903)---Spring 2020
 
 ###### English
