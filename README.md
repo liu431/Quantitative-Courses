@@ -44,12 +44,10 @@ Applied Regression Analysis (BUSN 41100)---Autumn 2018 (Grader)
 
 Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
 
-Applied Econometrics (BUSN 41903)---Spring 2020
-
 ###### English
 Academic and Professional English ([The Little Red Schoolhouse](https://writing-program.uchicago.edu/courses/writing-courses/academic-and-professional-writing-engl-1300033000/)) (ENGL 33000)---Autumn 2019
 
-(this is not a quant course; but it teaches me how to write quantitative analysis to influence readers)
+(This is not a quant course; but it teaches me how to write quantitative analysis to influence readers)
 
 ###### Sociology
 Network Analysis (SOCI 50096)---Autumn 2019
