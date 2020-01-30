@@ -31,13 +31,13 @@ Computational Linguistics (LING 38600)---Spring 2019
 
 Unsupervised Machine Learning (MACS 40800)---Autumn 2019
 
-Computational Content Analysis (MACS 60000)---Winter 2020
-
 
 ###### Statistics:
 Spatial Data Analysis ( SOCI 30253)---Autumn 2018
 
 Survey Research Methodology (PPHA 41600)---Winter 2019
+
+Causal Inference (STAT 31900)---Winter 2020
 
 ###### Booth School of Business:
 Applied Regression Analysis (BUSN 41100)---Autumn 2018 (Grader)
@@ -45,6 +45,8 @@ Applied Regression Analysis (BUSN 41100)---Autumn 2018 (Grader)
 Foundations of Advanced Quantitative Marketing (BUSN 37902)---Winter 2019
 
 Behavioral Economics (BUSN 38912)---Winter 2020
+
+Digital and Algorithmic Marketing (BUSN 37304)---Winter 2020
 
 ###### English
 Academic and Professional English ([The Little Red Schoolhouse](https://writing-program.uchicago.edu/courses/writing-courses/academic-and-professional-writing-engl-1300033000/)) (ENGL 33000)---Autumn 2019
