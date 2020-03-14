@@ -48,6 +48,9 @@ Behavioral Economics (BUSN 38912)---Winter 2020
 
 Digital and Algorithmic Marketing (BUSN 37304)---Winter 2020
 
+Algorithmic Marketing Lab (BUSN 37704)---Spring 2020
+
+
 ###### English
 Academic and Professional English ([The Little Red Schoolhouse](https://writing-program.uchicago.edu/courses/writing-courses/academic-and-professional-writing-engl-1300033000/)) (ENGL 33000)---Autumn 2019
 
