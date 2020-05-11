@@ -48,16 +48,20 @@ Behavioral Economics (BUSN 38912)---Winter 2020
 
 Digital and Algorithmic Marketing (BUSN 37304)---Winter 2020
 
-Algorithmic Marketing Lab (BUSN 37704)---Spring 2020
+Algorithmic Marketing Lab (Analytics Project for Grubhub Inc.) (BUSN 37704)---Spring 2020 
 
+Behavioral Science Research Methods in Marketing (BUSN 37907)---Spring 2020
+
+
+###### Sociology
+Network Analysis (SOCI 50096)---Autumn 2019
+
+Computational Content Analysis (SOCI 40133)---Spring 2020
 
 ###### English
 Academic and Professional English ([The Little Red Schoolhouse](https://writing-program.uchicago.edu/courses/writing-courses/academic-and-professional-writing-engl-1300033000/)) (ENGL 33000)---Autumn 2019
 
-(This is not a quant course; but it prepares me to write quantitative analysis to influence readers)
-
-###### Sociology
-Network Analysis (SOCI 50096)---Autumn 2019
+(Not a quant course; but it prepares me to write quantitative analysis to influence readers)
 
 ## @Indiana University Bloomington
 
