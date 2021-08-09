@@ -1,1 +1,1 @@
-Li Liu is a second-year master’s student in Computational Social Science at the University of Chicago. He completed his BS in Applied Mathematics and BA in Economics at Indiana University Bloomington in 2018. He is analytically driven and interested in extracting business insights from data by building models with machine learning and econometrics. He is proficient at using Python, R, and SQL. Most recently, he worked as the data analytics research assistant at the Harris School of Public Policy at UChicago to make data-driven recommendations by analyzing students’ data. 
+
