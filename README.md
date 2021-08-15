@@ -1,8 +1,13 @@
 # Quantitative-Courses
 
+
+## @Georgia Institute of Technology (Aug 2021 - Present)
+
+#### Degree pursuing: M.S. in Computer Science (Specialization: Computing System)   
+
 ## @University of Chicago (Sep 2018 - Jun 2020)
 
-#### Degree pursuing: M.A. in Computational Social Science (Concentrations: Quantitative Marketing)   
+#### M.A. in Computational Social Science   
 ###### Computational Social Science:
 
 Perspectives on Computational Analysis (MACS 30000)---Autumn 2018
